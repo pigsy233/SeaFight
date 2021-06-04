@@ -1,0 +1,95 @@
+UI:
++ShowMenu()		显示主菜单
++ShowPauseMenu()	显示暂停菜单
++ShowBattleUI()		显示战斗界面
+
+Menu:
++Start()			开始游戏
++Shop()			显示商店界面
++Achievement()		显示成就界面
++Settings()		显示设置
++Controls()		显示控制界面，可修改绑定按键
++Exit()			退出游戏
++Extra()			显示制作人员
+
+PlayerController:
++Update()		引擎调用，用于接受输入控制视角转动
++OnCollision()		引擎调用，用于检测碰撞以及产生碰撞逻辑
++Fire()			通过输入调用PlayerWeapon控制战舰进行相应攻击操作
+
+PlayerMove:
++Update()		引擎调用，用于接受输入控制战舰移动，以及炮台角度转动
++WarshipMove()		控制战舰移动	
++BatteryMove()		控制炮台角度转动	
+
+PlayerWeapon:
++BatteryFIre()		炮台攻击，产生炮弹
++TorpodoFire()		战舰发射鱼雷
++SetMine()		在当前位置布下水雷
+
+PlayerInfo:
++HP			战舰生命值
++moveStatue		移动类型
++Play()			根据状态变化调用PlayerAnimation播放动画
++Die()			玩家死亡逻辑
+
+PlayerAnimation:
++animationName		动画名称
++PlayAnimation()		播放动画
+
+EnemyController:
++Update()		引擎调用，用于接受输入控制视角转动
++OnCollision()		引擎调用，用于检测碰撞以及产生碰撞逻辑
++Fire()			通过输入调用EnemyWeapon控制战舰进行相应攻击操作
+
+EnemyMove:
++Update()		引擎调用，用于接受输入控制战舰移动，以及炮台角度转动
++WarshipMove()		控制战舰移动	
++BatteryMove()		控制炮台角度转动	
+
+EnemyWeapon:
++BatteryFIre()		炮台攻击，产生炮弹
++TorpodoFire()		战舰发射鱼雷
++SetMine()		在当前位置布下水雷
+
+EnemyInfo:
++HP			战舰生命值
++moveStatue		移动类型
++Play()			根据状态变化调用PlayerAnimation播放动画
++Die()			敌人死亡逻辑
+
+EnemyAnimation:
++animationName		动画名称
++PlayAnimation()		播放动画
+
+EnemySpawn:
++enemyCapacity		敌人上限
++enemyWaves		敌人波数
++makedEnemies		产生的敌人数量
++enemyLives		存活敌人数量
++MakeEnemy()		生成敌人
+
+Enemies:
++MakeEnemy()		通过调用EnemySpawn生成敌人
+……
+
+Ammo:
++damage		造成伤害
++velocity			速度
++Update()		引擎调用，更新弹药位置等
++OnCollision()		引擎调用，用于检测碰撞以及产生碰撞逻辑,产生相应的粒子效果，如爆炸、水花等
++Explosive()		产生粒子效果
+
+Torpedo:
++damage		造成伤害
++velocity			速度
++Update()		引擎调用，更新鱼雷位置等
++OnCollision()		引擎调用，用于检测碰撞以及产生碰撞逻辑,产生相应的粒子效果，如爆炸、水花等
++Explosive()		产生粒子效果
+
+Mine:
++damage		造成伤害
++velocity			速度
++OnCollision()		引擎调用，用于检测碰撞以及产生碰撞逻辑,产生相应的粒子效果，如爆炸、水花等
++Explosive()		产生粒子效果
+
