@@ -301,28 +301,28 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Simd">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Assets/Ocean_Community_Next_Gen-master/Assets/Ocean/Plugins/Mono.Simd.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Assets/Ocean_Community_Next_Gen-master/Assets/Ocean/Plugins/Mono.Simd.dll</HintPath>
     </Reference>
     <Reference Include="antlr.runtimePlastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/antlr.runtimePlastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/antlr.runtimePlastic.dll</HintPath>
     </Reference>
     <Reference Include="Antlr3.RuntimePlastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/Antlr3.RuntimePlastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/Antlr3.RuntimePlastic.dll</HintPath>
     </Reference>
     <Reference Include="LibGit2SharpPlastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/LibGit2SharpPlastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/LibGit2SharpPlastic.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/log4netPlastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json.Net20Plastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/Newtonsoft.Json.Net20Plastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/Newtonsoft.Json.Net20Plastic.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/unityplastic.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.plasticscm-cn@1.2.1-preview/Lib/Editor/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>E:/Unity/unity2020.2.6/2019.4.21f1c1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -679,37 +679,37 @@
       <HintPath>E:/Unity/unity2020.2.6/2019.4.21f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Unity/unity2020.2.6/UnityProject/SeaFight/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/GitLearningFile/SeaFight/SeaFight/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
