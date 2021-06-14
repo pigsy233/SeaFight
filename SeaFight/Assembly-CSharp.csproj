@@ -127,6 +127,9 @@
     <Compile Include="Assets\Ocean_Community_Next_Gen-master\Assets\Ocean\Scripts\helper\FPSCounter.cs" />
     <Compile Include="Assets\Ocean_Community_Next_Gen-master\Assets\Ocean\Scripts\presetLoader.cs" />
     <Compile Include="Assets\Script\Player\PlayerController.cs" />
+    <Compile Include="Assets\Script\Player\PlayerInfo.cs" />
+    <Compile Include="Assets\Script\Player\PlayerMotor.cs" />
+    <Compile Include="Assets\Script\Player\PlayerWeapon.cs" />
     <Compile Include="Assets\Simple Warships\Demo Scene\Rotate.cs" />
     <None Include="Assets\#NVJOB Water Shaders V2\Example Scenes\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
     <None Include="Assets\#NVJOB Water Shaders V2\#NVJOB Water Shaders V2\Water Specular.shader" />
