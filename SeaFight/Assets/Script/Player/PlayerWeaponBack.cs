@@ -125,8 +125,15 @@ public class PlayerWeaponBack : MonoBehaviour
         {
             GameObject bulletGO = Instantiate(bullet, this.transform.position, this.transform.rotation.normalized) as GameObject;
             //初始化，传递攻击力、攻击距离
-            bulletGO.GetComponent<Bullet>().Init(camera.transform.eulerAngles.x, 2);
+            bulletGO.GetComponentsInChildren<Bullet>();
+            var bullets = bulletGO.GetComponentsInChildren<Bullet>();
+            for (int i = 0; i < bullets.Length; i++)
+            {
+
+                bullets[i].Init(camera.transform.eulerAngles.x, 2);
+            }
         }
+
     }
 
     private bool FireReady()
